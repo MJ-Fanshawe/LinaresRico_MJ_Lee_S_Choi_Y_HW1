@@ -5,6 +5,13 @@
 
 In this project you can find awesome people which study hard everyday.
 
+## Sumin Lee
+ 
+
+My name is Sumin Lee from South Korea. I have been staying Canada about almost 2 years. I love watching movies kind of old one and I reallly like Harry Styles music!!
+
+![oops, image not found](img/bennerimage.jpg"Harry Styles")
+
 
 ## Contributing
 
