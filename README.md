@@ -21,6 +21,15 @@ I love croissants. One day I will leave for finding the most beautiful croissant
 
 ![oops, image not found](img/croissant.jpg "croissant")
 
+## Maria Jose Linares Rico
+ 
+
+Hi! I'm from Colombia. I like FrontEnd and BackEnd Design. I enjoy learning about new cultures. In the future, I would like to be part of a big company, like Google.
+
+
+![oops, image not found](img/hello_kitty.gif "Hello Kitty")
+
+
 
 ## Contributing
 
@@ -32,8 +41,8 @@ I love croissants. One day I will leave for finding the most beautiful croissant
 
 
 ## Credits
-Maria Jose Linares Rico
-Sumin Lee
+Maria Jose Linares Rico - 
+Sumin Lee - 
 Yoon Hee Choi
 
 ## License
