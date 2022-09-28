@@ -12,6 +12,15 @@ My name is Sumin Lee from South Korea. I have been staying Canada about almost 2
 
 ![oops, image not found](img/bennerimage.jpg "Harry Styles")
 
+## Yoon Hee Choi
+ 
+
+I’m Yoon Hee Choi from Korea.
+I love croissants. One day I will leave for finding the most beautiful croissants in the world. Fingers cross for my journey.
+
+
+![oops, image not found](img/croissant.jpg "croissant")
+
 
 ## Contributing
 
@@ -25,6 +34,7 @@ My name is Sumin Lee from South Korea. I have been staying Canada about almost 2
 ## Credits
 Maria Jose Linares Rico
 Sumin Lee
+Yoon Hee Choi
 
 ## License
 
